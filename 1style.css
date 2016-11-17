@@ -1,6 +1,36 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
 h1 {
-    font-family: 'Enriqueta', arial, serif;
-    font-size: 3em;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 4em;
     margin: auto;
     text-align: center;
+}
+
+h3 {
+  position: absolute;
+  font-weight: 600;
+  width: 120px;
+  margin-top: 22px;
+}
+
+ul {
+  position: absolute;
+  width: 120px;
+  margin-top: 66px;
+  list-style-type: none;
+  padding: 0;
+}
+
+h2 {
+  font-weight: 600;
+  margin-left: 200px;
+}
+
+p {
+  margin-left: 200px;
+  margin-right: 200px;
 }
