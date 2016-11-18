@@ -1,60 +1,87 @@
 * {
     font-family: 'Raleway', sans-serif;
-    color: #050401;
-}
-
-body {
-  background-color: #FFFAFF;
+    color: #686963;
 }
 
 h1 {
+  margin-top: 0px;
   font-family: 'Bitter', serif;
-  color: #28A0CC;
   font-weight: 700;
   font-size: 4.5em;
-  margin: auto;
-  text-align: center;
+  color: #db5461;
 }
 
 h3 {
   font-weight: 600;
   font-size: 1.5em;
-  color: #303036;
-  margin: auto;
-  margin-top: 20px;
-  text-align: center;
+  color: #db5461;
+
 }
 
 ul {
+  margin-top: -20px;
   list-style-type: none;
   padding: 0;
-  margin: auto;
-  text-align: center;
 }
 
 h2 {
   font-weight: 600;
   font-size: 1.5em;
-  color: #303036;
-  margin: auto;
+  color: #db5461;
   margin-top: 20px;
-  text-align: center;
 }
 
 p {
-  margin: auto;
-  text-align: center;
-  margin-top: 10px;
-  margin-left: 250px;
-  margin-right: 250px
+  font-style: italic;
+  font-weight: 400;
 }
 
 a {
   text-decoration: none;
-  color: #165870;
+  color: #7e949e;
 }
 
 a:hover {
   color: #FC5130;
   text-decoration: underline;
+}
+
+/* 2nd Day Work */
+body {
+  margin: 0;
+  background-color: #fbfbfb;
+}
+
+.extreme {
+  margin: auto;
+  text-align: center;
+  color: #e8d264;
+}
+
+.navzone {
+  margin: auto;
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  text-align: center;
+}
+
+.prose {
+  margin: auto;
+  text-align: justify;
+  margin-left: 400px;
+  margin-right: 400px
+}
+
+#head1 {
+  background-color: #e3f2fd;
+  color: #db5461;
+}
+
+#tehlulz a:hover {
+  color: #e8d264;
+  font-size: 1.2em;
+  text-decoration: line-through;
 }
