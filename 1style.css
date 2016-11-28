@@ -1,0 +1,75 @@
+/* 1st Day Work */
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin-top: 0px;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 4em;
+}
+
+h3 {
+  font-weight: 600;
+  width: 120px;
+}
+
+ul {
+  width: 120px;
+  list-style-type: none;
+  padding: 0;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+p {
+  margin-right: 208px;
+}
+
+/* 2nd Day Work */
+body {
+  margin: 0;
+  background-color: #f7f0f0;
+}
+
+a {
+  color: #484349;
+}
+
+a:hover {
+  color: #8af3ff;
+}
+
+.extreme {
+  margin: auto;
+  text-align: center;
+  color: #4ecdc4;
+}
+
+.navzone {
+  position: absolute;
+  margin-top: -13px;
+  margin-left: 8px;
+}
+
+.content {
+  margin-left: 208px;
+}
+
+.prose {
+  font-style: italic;
+  font-weight: 400;
+}
+
+#head1 {
+  background-color: #18a999;
+  color: white;
+}
+
+#tehlulz a:hover {
+  color: #ef2d56;
+  font-size: 1.2em;
+}
